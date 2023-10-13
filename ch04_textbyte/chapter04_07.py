@@ -1,0 +1,1 @@
+fruits = ['caju','atemoia','']
